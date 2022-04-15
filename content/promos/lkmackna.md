@@ -2,7 +2,7 @@
 content_type: promos
 draft: false
 image:
-  content: ''
+  content: be122475-b163-4cc5-924f-81b5f2f54206
   website: 6-001-structure-and-interpretation-of-computer-programs-spring-2005
 link_title: ''
 link_url: ''
