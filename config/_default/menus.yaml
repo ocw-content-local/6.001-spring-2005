@@ -33,7 +33,7 @@ leftnav:
   weight: 80
 - identifier: 89775783-1f04-f40c-3f68-ee415df41c28
   name: Tools
-  url: /pages/tools
+  url: /pages/tools/
   weight: 90
 - identifier: 3ff76cf3-a302-fa2c-fde8-aac5357c300b
   name: Related Resources
